@@ -1,8 +1,10 @@
 ### Project description 
 Clay-rich fault rocks are widely thought to inhibit dynamic earthquake ruptures because clays promote aseismic creep and rupture arrest. But direct field-based observations of the interface of large earthquakes are rare, limiting our understanding of the role of clays in these events. Here we integrate mineralogical analyses of on- and off-rupture fault rocks with surface rupture metrics along the 6 February 2023 Mw 7.6 Elbistan earthquake in Türkiye to show that rupture-interface smectite content is the dominant mineralogical control on along-strike rupture behavior. Segments where rupture-interface smectite exceeds 30% hosted geometrically simple, narrow ruptures with surface offsets exceeding 10 m, and sustained supershear rupture speeds. Smectite-poor segments exhibit wider, multi-stranded ruptures, higher fault zone roughness, reduced offsets, and subshear velocities. No other mineral phase shows a comparable correlation. Rather than resisting dynamic rupture, smectite-bearing, foliated fault gouge participated in and facilitated rupture propagation on one of the most energetic segments of this earthquake. Our results reveal a feedback in which smectite accumulation, fabric development, rupture dynamics, and fault maturity co-evolve over multiple earthquake cycles.
 
-
 This repository contains a set of Jupyter Notebooks to analyze the surface rupture from the 2023 Elbistan earthquake and reproduce the results from Garcia et al. (in review).
+
+### Input files
+The scripts require published shapefiles from Yildirim et al. (2025) and the supplementary data from Liu et al. (2025, Nature Communications).
 
 ### Analysis scripts
 1. utils.py
