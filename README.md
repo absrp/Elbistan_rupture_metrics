@@ -17,13 +17,19 @@ The scripts require published shapefiles from Yildirim et al. (2025), the supple
 3. roughness_n_strands_measurements.ipynb
     Compute and analyze number of strands, fault zone roughness, and fault zone width along strike of the rupture
 
+4. 2025_Turkey_Site_Points_Subset.csv
+    Coordinates and IDs for field samples
+
 
 ### Contact
-Please direct any questions, suggestions or concerns regarding the code to: 
+Please direct any questions, suggestions or concerns regarding the code to Alba Rodriguez and Leslie Garcia:
 
-Email - alba.rodriguez@usu.edu, alba@caltech.edu, amrodriguezpadilla@gmail.com
+Email - alba.rodriguez@usu.edu, amrodriguezpadilla@gmail.com, leslie.garcia@usu.edu
 Website - [absrp@github.io](absrp@github.io)
 
+Please direct any questions regarding the XRD data and field samples to Alexis Ault and Leslie Garcia:
+Email - alexis.ault@usu.edu, leslie.garcia@usu.edu
+Website - [https://alexiskault.weebly.com/](https://alexiskault.weebly.com/)
 
 ### Manuscript link
 Garcia et al. (in review). Stay tuned! 
