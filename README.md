@@ -18,7 +18,7 @@ The scripts require published shapefiles from Yildirim et al. (2025), the supple
     Compute and analyze number of strands, fault zone roughness, and fault zone width along strike of the rupture
 
 4. 2025_Turkey_Site_Points_Subset.csv
-    Coordinates and IDs for field samples
+    Coordinates and IDs for field samples for plotting (see more details in manuscript supplement).
 
 
 ### Contact
