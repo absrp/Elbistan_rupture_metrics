@@ -8,12 +8,13 @@ This repository contains a set of Jupyter Notebooks to analyze the surface ruptu
 1. utils.py
    
     Functions required to run the Jupyter Notebooks.
-   
 
-### Code authors
-Alba Rodriguez Padilla
-Leslie Garcia
-Alexis Ault
+2. deformation_Turkey_viz.ipynb
+    Plot and visualize on and off-fault deformation measurements from Liu et al. (2025)
+
+3. roughness_n_strands_measurements.ipynb
+    Compute and analyze number of strands, fault zone roughness, and fault zone width along strike of the rupture
+
 
 ### Contact
 Please direct any questions, suggestions or concerns regarding the code to: 
@@ -21,7 +22,6 @@ Please direct any questions, suggestions or concerns regarding the code to:
 Email - alba.rodriguez@usu.edu, alba@caltech.edu, amrodriguezpadilla@gmail.com
 Website - [absrp@github.io](absrp@github.io)
 
-### Acknowledgements
 
 ### Manuscript link
-Stay tuned! 
+Garcia et al. (in review). Stay tuned! 
