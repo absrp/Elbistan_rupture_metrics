@@ -4,7 +4,7 @@ Clay-rich fault rocks are widely thought to inhibit dynamic earthquake ruptures 
 This repository contains a set of Jupyter Notebooks to analyze the surface rupture from the 2023 Elbistan earthquake and reproduce the results from Garcia et al. (in review).
 
 ### Input files
-The scripts require published shapefiles from Yildirim et al. (2025) and the supplementary data from Liu et al. (2025, Nature Communications).
+The scripts require published shapefiles from Yildirim et al. (2025), the supplementary data from Liu et al. (2025, Nature Communications), and the rupture map develped in this study (available upon request). 
 
 ### Analysis scripts
 1. utils.py
