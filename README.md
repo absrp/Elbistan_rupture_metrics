@@ -25,10 +25,13 @@ The scripts require published shapefiles from Yildirim et al. (2025), the supple
 Please direct any questions, suggestions or concerns regarding the code to Alba Rodriguez and Leslie Garcia:
 
 Email - alba.rodriguez@usu.edu, amrodriguezpadilla@gmail.com, leslie.garcia@usu.edu
+
 Website - [absrp@github.io](absrp@github.io)
 
 Please direct any questions regarding the field data and samples to Alexis Ault and Leslie Garcia:
+
 Email - alexis.ault@usu.edu, leslie.garcia@usu.edu
+
 Website - [https://alexiskault.weebly.com/](https://alexiskault.weebly.com/)
 
 ### Manuscript link
